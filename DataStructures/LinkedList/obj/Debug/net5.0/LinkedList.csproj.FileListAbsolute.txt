@@ -1,0 +1,5 @@
+/Users/jamell/code/JamellIsGoingInVolume1/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.csproj.AssemblyReference.cache
+/Users/jamell/code/JamellIsGoingInVolume1/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamell/code/JamellIsGoingInVolume1/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfoInputs.cache
+/Users/jamell/code/JamellIsGoingInVolume1/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfo.cs
+/Users/jamell/code/JamellIsGoingInVolume1/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.csproj.CoreCompileInputs.cache

@@ -1,4 +1,4 @@
-package DataStructures.LinkedList;
+//package DataStructures.LinkedList;
 public void push(int new_data)
 {
     Node new_node = new Node(new_data);
