@@ -21,6 +21,7 @@ struct node {
 
 // Delete the ndoe containing info as part as val and after
 // the head of a linked list (recursive method)
+// this will delete all nodes of a given value the iterative method will delete the first
 
 void deleteNode(node*& head, int val)
 {
