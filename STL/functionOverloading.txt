@@ -1,0 +1,6 @@
+both function overloading and templates are examples of polymorphism
+function overloading is used when multipls functions do similar operations, 
+templates are used when multiple functions do identical operations
+//look into template specialisations
+
+non type parameters can be passed 

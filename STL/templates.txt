@@ -1,0 +1,6 @@
+A template is a simple tool. 
+The simple idea is to pass data types as a parameter so that we don't need to write the same code for different data types.
+Two new keywords for templates are template and typename. 
+the second keyword can always bee replaced by the keyword class. 
+
+function templates, are generic functions that can be used for different data types. 

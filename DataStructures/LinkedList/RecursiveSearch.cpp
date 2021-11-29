@@ -12,7 +12,7 @@ class Node
 
 void push(Node** head_ref, int new_key)
 {
-     Node new_node = new Node();
+     Node * new_node = new Node();
      new_node->key = new_key;
      new_node->next = *head_ref;
      *head_ref = new_node; 

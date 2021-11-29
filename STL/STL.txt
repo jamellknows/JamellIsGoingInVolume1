@@ -1,0 +1,4 @@
+The standard template library is a set of C++ template classes to provide common programming data structures and functions such as lists, stacks and arrays. 
+It is a library of container classses, algorithms and iterators. 
+It is a generalised library. 
+A working knowledge of template classes is a prerequisite. 
